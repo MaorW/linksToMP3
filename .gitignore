@@ -6,6 +6,9 @@ __pycache__/
 # Ignore CSV files
 *.csv
 
+# Ignore Pycharm directory settings
+.idea/
+
 # C extensions
 *.so
 
